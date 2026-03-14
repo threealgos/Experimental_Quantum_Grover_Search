@@ -95,7 +95,7 @@ Donations Please for my Quantum Project 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai
 
 Support This is my LTC Litecoin address for the next version of public-addresses: LMiCcsUnuWzTK5w4Dih4s5CqtWT6YRVsAZ
 
-USDT-TRON TX5oQpgsNe7Wr4RKmp2i6BqHYR91ozHcTc
+USDT-TRON TWhgFuen3SdpBqQDVRu66EaaUPDtzNcdew
 
 USDT-BSC 0x610019e9538d6a62fAf299E4CF5dE2014BF609E7
 
