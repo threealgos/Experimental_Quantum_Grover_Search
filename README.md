@@ -93,11 +93,11 @@ i am poor i hope some donations i can't even sub to higher quantum-devices with 
 
 Donations Please for my Quantum Project 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai
 
-Support This is my LTC Litecoin address for the next version of public-addresses: LMiCcsUnuWzTK5w4Dih4s5CqtWT6YRVsAZ
+Support This is my LTC Litecoin address for the next version of public-addresses: LdJX6Zr43PBekv11eKBfrMtpH78qi96Mef
 
-USDT-TRON TWhgFuen3SdpBqQDVRu66EaaUPDtzNcdew
+USDT-TRON TQ1cxj8csRyWUzkonf5XgYUyFGsDJn1k7J
 
-USDT-BSC 0x610019e9538d6a62fAf299E4CF5dE2014BF609E7
+USDT-BSC 0x3fa39005a6bb18d0e2546d97b24a767cc393b03a
 
-This is my BTC  address To Reveal next version for only public-addresses 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai
+This is my BTC address To Reveal next version for only public-addresses 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai
 
